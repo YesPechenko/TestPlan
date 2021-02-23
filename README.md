@@ -10,23 +10,45 @@
 **Вариант №1**
 1. Открыть сайт [Альфа-банк](https://alfabank.ru/)
 2. Выбрать вкладку "Частным лицам" (текст должен быть подчеркнутым)
-3. На главной странице навести мышь на пункт главного меню "Вклады", кликнуть "Накопилка"
+3. На главной странице навести мышь на пункт главного меню "Вклады", кликнуть "Накопилка" 
+<b>
+   <img src="https://github.com/YesPechenko/TestPlan/blob/main/Image/2021-02-23_17-57-59.png?raw=true" />
+</b>
+4. На главной странице навести мышь на пункт главного меню "Вклады", кликнуть "Накопилка"
 
 **Вариант №2**
 1. Открыть сайт [Альфа-банк](https://alfabank.ru/)
 2. Выбрать вкладку "Частным лицам" (текст должен быть подчеркнутым)
 3. На главной странице навести мышь на пункт главного меню "Вклады", кликнуть "Накопительные счета"
+<b>
+   <img src="https://github.com/YesPechenko/TestPlan/blob/main/Image/2021-02-23_17-37-43.png?raw=true" />
+</b>
 
 **Дальнейшие шаги применяемые для двух вариантов**
 
 4. Нажать на [странице](https://alfabank.ru/make-money/savings-account/) "Архивные счета и депозиты"
-5. На [странице](https://alfabank.ru/make-money/archive/) нужно выбрать "Накопилка"
-6. Откроется [страница](https://github.com/AnatolyTS/Planning/blob/main/README.md) с описанием вклада и кнопкой для заявки
-7. Нажать кнопку "Заполнить заявку"
-8. Откроется [страница]() заполнения анкеты
-9. Отправка анкеты с заполнеными контактами
+<b>
+   <img src="https://github.com/YesPechenko/TestPlan/blob/main/Image/2021-02-23_17-40-42.png?raw=true" />
+</b>
+6. На [странице](https://alfabank.ru/make-money/archive/) нужно выбрать "Накопилка"
+<b>
+   <img src="https://github.com/YesPechenko/TestPlan/blob/main/Image/2021-02-23_17-43-34.png?raw=true" />
+</b>
+8. Откроется [страница](https://github.com/AnatolyTS/Planning/blob/main/README.md) с описанием вклада и кнопкой для заявки
+<b>
+   <img src="https://github.com/YesPechenko/TestPlan/blob/main/Image/2021-02-23_17-46-42.png?raw=true" />
+</b>
+10. Нажать кнопку "Заполнить заявку"
+11. Откроется страница заполнения анкеты
+<b>
+   <img src="https://github.com/YesPechenko/TestPlan/blob/main/Image/2021-02-23_17-51-02.png?raw=true" />
+</b>
+13. Отправка анкеты с заполнеными контактами
 
-**Ожидаем:** открывается форма оформления вклада
+**Ожидаем:** открывается форма "Спасибо, скоро мы вам перезвоним!"
+<b>
+   <img src="https://github.com/YesPechenko/TestPlan/blob/main/Image/2021-02-23_17-52-24.png?raw=true" />
+</b>
 
 #### 1.2 Сценарии заполнения анкеты
 
